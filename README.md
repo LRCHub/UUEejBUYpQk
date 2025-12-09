@@ -1,0 +1,83 @@
+# ME:I – Hi-Five
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hi-Five Hi-Five
+上がってくテンション
+Hi-Five Hi-Five
+Like a diamond diamond diamond
+太陽とMy sweat
+Gimme lemo-lemo-lemonade
+君との季節がスタート
+一緒に飛び出そう!
+空はSo high 海にSay "Hi"
+見つめあう笑顔 Glow
+躊躇わず Let's dive
+上がる温度と鼓動
+高鳴るのは誰のせい?
+(Too hot) Too hot (Too hot)
+Ah どうしよう?
+Say "Hi" to Summer
+初めて感じる気持ち
+It's just for You＆ME
+Higher and higher
+期待しちゃっていい?
+この夏 Just for You＆ME
+Hi-Five Hi-Five
+上がってくテンション
+Hi-Five Hi-Five
+Say "Hi Summer"
+Gonna be a good time
+Hi-Five Hi-Five
+これまで感じたことない Energy
+I love it yeah
+Say "Hi Summer"
+一緒にHi-Five
+ゆらゆら Mirage
+揺れる想いカムフラージュ
+Feeling good
+Feeling super good
+Just You＆ME, Just You＆ME
+一緒にいる場所 Sunshine
+いつも照らしてるみたい
+キラリ 光 君の瞳 Be-be-beam
+真っ直ぐに You are looking at me
+この夏は終わらない
+カーニバルは永遠に
+Just for You＆ME
+Hi-Five Hi-Five
+上がってくテンション
+Hi-Five Hi-Five
+Say "Hi Summer"
+Gonna be a good time
+Hi-Five Hi-Five
+これまで感じたことない Energy
+I love it yeah
+Say "Hi Summer"
+一緒にHi-Five
+春夏秋冬と そばにいたいけど
+This Summer
+特別な季節になる予感がするの
+Hi, Hi Summer
+Hi-Five Hi-Five
+上がってくテンション
+Hi-Five Hi-Five
+Say "Hi Summer"
+Gonna be a good time
+Hi-Five Hi-Five
+これまで感じたことない Energy
+I love it yeah
+Say "Hi Summer"
+一緒にHi-Five
+Yeah give me Hi-Five
+Let's Say "Hi Summer"
+Hey come on over
+Say "Hi Summer"
+一緒にHi-Five
+Yeah give me Hi-Five
+Let's Say "Hi Summer"
+Hey come on over
+Say "Hi Summer"
+一緒にHi-Five
+```
