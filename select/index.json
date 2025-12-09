@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hi-Five",
+  "base_artist": "ME:I",
+  "createdAt": "2025-12-09T10:57:40.118144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/01_Hi-Five_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hi FiVE!",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Hi_FiVE!_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hi FiVE!",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Hi_FiVE!_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/04_Hi-Five_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hi‐Five",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/05_Hi‐Five_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/06_Hi-Five_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HI FIVE",
+      "artist": "Cherry on Top",
+      "has_synced": true,
+      "path": "select/07_HI_FIVE_Cherry_on_Top.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HI FIVE (inst.)",
+      "artist": "Cherry on Top",
+      "has_synced": true,
+      "path": "select/08_HI_FIVE_(inst.)_Cherry_on_Top.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hi-Five (Loading)",
+      "artist": "Andy Mineo & Wordsplayed",
+      "has_synced": true,
+      "path": "select/09_Hi-Five_(Loading)_Andy_Mineo_&_Wordsplayed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hi‐Five",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/10_Hi‐Five_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/11_Hi-Five_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/12_Hi-Five_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HI-FIVE (LOADING)",
+      "artist": "Andy Mineo",
+      "has_synced": true,
+      "path": "select/13_HI-FIVE_(LOADING)_Andy_Mineo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Hi-Five",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": true,
+      "path": "select/14_Sweet_Hi-Five_Chihiro_Onitsuka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hi-Five",
+      "artist": "Olsen Angel",
+      "has_synced": true,
+      "path": "select/15_Hi-Five_Olsen_Angel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hi-Five",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/pl_01_Hi-Five_ME_I.txt"
+    }
+  ]
+}
